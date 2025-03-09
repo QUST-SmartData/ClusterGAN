@@ -1,6 +1,10 @@
+In this study, we referred to the research work of Sudipto Mukherjee et al. and their provided code, which provided important insights and technical support for our research. We sincerely appreciate their contributions to this field.
 
-Run ClusterGAN on ROCK
-To run ClusterGAN on the ROCK dataset, ensure the package is setup and then run:
+References
+Mukherjee S, Asnani H, Lin E, et al. ClusterGAN: Latent space clustering in generative adversarial networks[C]//Proceedings of the AAAI Conference on Artificial Intelligence. 2019, 33(01): 4610-4617.
+
+Run ClusterGAN
+To run ClusterGAN on the dataset, ensure the package is setup and then run:
 python rock_clu.py -r test_run -w -n 210 -b 4 -s my_dataset
 
 
